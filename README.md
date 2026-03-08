@@ -1,7 +1,17 @@
 # AutoML Pipeline Builder
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![PyCaret](https://img.shields.io/badge/PyCaret-AutoML-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+An interactive web application that automatically trains and compares machine learning models using PyCaret.
 An interactive machine learning application that automatically trains and compares models using PyCaret and allows users to download the best model.
 
+## Application Preview
+
+![AutoML App](screenshots/automl_screenshot.png)
+![AutoML App](screenshots/automl_screenshot1.png)
 ## Features
 
 * Upload any CSV dataset
